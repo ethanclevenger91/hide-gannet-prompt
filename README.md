@@ -1,4 +1,4 @@
-# Sick of Gannet Ads?
+# Sick of Gannet Surveys?
 <img src="./screen.jpg">
 
 [Grab the bookmarklet](http://ethanclevenger91.github.io/hide-gannet-prompt/) from the GitHub Pages page for a one-click solution. Just click it any time you run into one of those.
